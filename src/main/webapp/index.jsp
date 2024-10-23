@@ -10,7 +10,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">iam done for today class for jenkins tomcat</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">jenkins</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">jenkins done for today</h1>
 	
 </body>
 </html>
