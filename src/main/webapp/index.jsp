@@ -11,11 +11,6 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">iam done for today class for jenkins tomcat</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-	<h1 style="color: grey; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">done for today</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">added webhook</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">added webhooks</h1>
-	
 	
 </body>
 </html>
